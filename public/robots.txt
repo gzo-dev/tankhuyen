@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://tankhuyencenter.com
+
+# Sitemaps
+Sitemap: https://tankhuyencenter.com/sitemap.xml
